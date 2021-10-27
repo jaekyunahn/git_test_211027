@@ -8,5 +8,5 @@ x = [1,2,3,4]
 y = np.exp(x)
 y = np.log(x)
 
-#5rd written at master
-hist(x,y)
+#6rd written at merge
+maxploat(x,y)
