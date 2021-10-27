@@ -4,5 +4,6 @@ import numpy as np
 #Edited at github
 x = [1,2,3,4]
 
-# 3rdEdtied at Local
+#4rd write locals
 y = np.exp(x)
+y = np.log(x)
