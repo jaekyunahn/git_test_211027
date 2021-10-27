@@ -7,3 +7,6 @@ x = [1,2,3,4]
 #4rd write locals
 y = np.exp(x)
 y = np.log(x)
+
+#5rd written at github
+ploat(x,y)
